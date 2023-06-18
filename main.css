@@ -5,3 +5,14 @@
     box-sizing: border-box;
     
 }
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p {
+    margin-top: 50px;
+    overflow: hidden;
+    width: 600px;
+    border-right:2px solid red;
+}
